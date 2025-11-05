@@ -1,0 +1,105 @@
+// ========================================================================
+// BASIC MATHEMATICS PROBLEMS - INTERVIEW PRIORITY LIST
+// Updated: November 05, 2025
+// ========================================================================
+// Format: Difficulty,Problem,Category,Status
+// Status: 'done' = completed, '' = pending
+// 
+// PRIORITY BREAKDOWN:
+// - Priority 1 (MUST KNOW): 10 problems - Top math interview questions
+// - Priority 2 (VERY IMPORTANT): 15 problems - Essential math patterns
+// - Priority 3 (IMPORTANT): 18 problems - Comprehensive coverage
+// - Priority 4 (FOUNDATION): 11 problems - Advanced & edge cases
+// ========================================================================
+
+
+// ========================================================================
+// PRIORITY 1: MUST KNOW (0/10 completed)
+// These problems appear in 70%+ of math-based interviews
+// Focus on these FIRST for maximum impact
+// ========================================================================
+
+Easy,Check if number is prime,Basic Math,
+Easy,Sum of first n natural numbers,Basic Math,
+Easy,Factorial of a number,Basic Math,
+Easy,Check if number is palindrome,Basic Math,
+Medium,Trailing zeros in factorial,Number Theory,
+Medium,Power of a number (optimized),Basic Math,
+Medium,Count prime numbers (Sieve of Eratosthenes),Number Theory,
+Medium,Happy number,Number Theory,
+Interview_Specific,Missing number in array using math,Number Theory,
+Interview_Specific,Check if power of two,Bit Manipulation,
+
+
+// ========================================================================
+// PRIORITY 2: VERY IMPORTANT (0/15 completed)
+// Essential math patterns and algorithms
+// Focus on these after completing Priority 1
+// ========================================================================
+
+Easy,Find GCD (Greatest Common Divisor),Basic Math,
+Easy,Find LCM (Least Common Multiple),Basic Math,
+Easy,Sum of digits in a number,Basic Math,
+Easy,Count digits in a number,Basic Math,
+Easy,Reverse a number,Basic Math,
+Easy,Power of a number (basic),Basic Math,
+Easy,Roman to Integer,Number Encoding,
+Easy,Integer to Roman,Number Encoding,
+Medium,Count primes up to N,Number Theory,
+Medium,Ugly numbers,Number Theory,
+Medium,Integer break (maximum product),Combinatorics,
+Hard,Unique paths in grid,Combinatorics,
+Interview_Specific,XOR all numbers,Bit Manipulation,
+Interview_Specific,Check if power of three,Number Theory,
+Interview_Specific,Single number (XOR),Bit Manipulation,
+
+
+// ========================================================================
+// PRIORITY 3: IMPORTANT (0/18 completed)
+// Comprehensive coverage with variations
+// Tackle after Priority 1 & 2
+// ========================================================================
+
+Easy,Check if number is even or odd,Basic Math,
+Easy,Find nth Fibonacci number (basic),Basic Math,
+Medium,Super ugly numbers,Number Theory,
+Medium,Excel sheet column title,Number Encoding,
+Medium,Excel sheet column number,Number Encoding,
+Medium,Fraction to recurring decimal,Number Theory,
+Medium,Find the Kth digit in sequence,Combinatorics,
+Medium,Sum of square numbers,Combinatorics,
+Medium,Number of ways to roll a target sum,Combinatorics,
+Hard,Median of two sorted arrays,Number Theory,
+Hard,Dividing two integers,Number Theory,
+Hard,Perfect squares,Combinatorics,
+Hard,Unique paths with obstacles,Combinatorics,
+Hard,Number of dice rolls with sum K,Combinatorics,
+Hard,Nth Tribonacci number,Combinatorics,
+Hard,Pascal's triangle,Combinatorics,
+Interview_Specific,Sum of all numbers XOR operation,Bit Manipulation,
+Interview_Specific,Single number II (multiple occurrences),Bit Manipulation,
+
+
+// ========================================================================
+// PRIORITY 4: FOUNDATION (0/11 completed)
+// Advanced problems and edge case coverage
+// For comprehensive mathematical understanding
+// ========================================================================
+
+Easy,Check if number is perfect square,Basic Math,
+Medium,Count the number of primes less than n,Number Theory,
+Hard,Maximum number of coins,Combinatorics,
+Hard,Prime number of set bits,Bit Manipulation,
+Hard,Largest number at least twice of others,Number Theory,
+Hard,Smallest range covering elements from K lists,Number Theory,
+Hard,Cherry pickup,Combinatorics,
+Hard,Factorial trailing zeros (large N),Number Theory,
+Interview_Specific,Find all pairs with given sum,Number Theory,
+Interview_Specific,Battleship game (coordinate system),Combinatorics,
+Interview_Specific,Single number III,Bit Manipulation,
+
+
+// ========================================================================
+// END OF LIST
+// Total: 54 problems
+// ========================================================================

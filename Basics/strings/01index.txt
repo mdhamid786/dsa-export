@@ -1,0 +1,169 @@
+// ========================================================================
+// STRING PROBLEMS - INTERVIEW PRIORITY LIST
+// Updated: November 05, 2025
+// ========================================================================
+// Format: Difficulty,Problem,Category,Status
+// Status: 'done' = completed, '' = pending
+// 
+// PRIORITY BREAKDOWN:
+// - Priority 1 (MUST KNOW): 10 problems - Top questions in interviews
+// - Priority 2 (VERY IMPORTANT): 15 problems - Essential patterns
+// - Priority 3 (IMPORTANT): 17 problems - Comprehensive coverage
+// - Priority 4 (FOUNDATION): 12 problems - Variations & edge cases
+// ========================================================================
+
+
+// ========================================================================
+// PRIORITY 1: MUST KNOW (0/10 completed)
+// These problems are asked in 70%+ of string interview questions
+// Focus on these FIRST for maximum impact
+// ========================================================================
+
+Easy,Reverse a string,Strings,
+Easy,Check if palindrome,Strings,
+Easy,Valid Parentheses,Strings,
+Easy,Check if anagram,Strings,
+Medium,Longest Substring Without Repeating Characters,Strings,
+Medium,Longest Palindromic Substring,Strings,
+Medium,Group Anagrams,Strings,
+Medium,Reverse Words in a String,Strings,
+Hard,Edit Distance (Levenshtein),Strings,
+Hard,Minimum Window Substring,Strings,
+
+
+// ========================================================================
+// PRIORITY 2: VERY IMPORTANT (0/15 completed)
+// Essential pattern-based problems for string interviews
+// Focus on these after completing Priority 1
+// ========================================================================
+
+Easy,First unique character in string,Strings,
+Easy,Isomorphic strings,Strings,
+Easy,String to Integer (atoi),Strings,
+Easy,Roman to Integer,Strings,
+Easy,Longest common prefix,Strings,
+Easy,Implement strStr(),Strings,
+Medium,Multiply two strings,Strings,
+Medium,Pattern Matching (Rabin-Karp),Strings,
+Medium,Decode String,Strings,
+Medium,Word Pattern,Strings,
+Hard,Find All Anagrams in String,Strings,
+Hard,Longest Repeating Character Replacement,Strings,
+Hard,Count Palindromic Substrings,Strings,
+Hard,Text Justification,Strings,
+Interview_Specific,Letter Combinations of Phone Number,Strings,
+
+
+// ========================================================================
+// PRIORITY 3: IMPORTANT (0/17 completed)
+// Variations and comprehensive coverage of string problems
+// Tackle after Priority 1 & 2
+// ========================================================================
+
+Easy,Remove vowels from string,Strings,
+Easy,Defanging an IP address,Strings,
+Easy,Jewels and Stones,Strings,
+Easy,Shuffle string,Strings,
+Easy,Excel Sheet Column Title,Strings,
+Medium,Longest Common Substring,Strings,
+Medium,Longest Prefix Suffix (KMP),Strings,
+Medium,Permutations of string,Strings,
+Medium,Validate IP Address,Strings,
+Medium,Count and Say,Strings,
+Hard,Word Search II (Trie),Strings,
+Hard,Regular Expression Matching,Strings,
+Hard,Wildcard Matching,Strings,
+Hard,Palindrome Pairs,Strings,
+Interview_Specific,Restore IP Addresses,Strings,
+Interview_Specific,Backspace String Compare,Strings,
+Interview_Specific,Scramble String,Strings,
+
+
+// ========================================================================
+// PRIORITY 4: FOUNDATION (0/12 completed)
+// Foundation problems for strong understanding of string concepts
+// Great for warm-up and edge case coverage
+// ========================================================================
+
+Medium,Split String in Balanced Strings,Strings,
+Medium,Delete and Earn,Strings,
+Hard,Concatenated Words,Strings,
+Hard,Shortest Word Distance,Strings,
+Hard,Encode and Decode Strings,Strings,
+Hard,Valid Number,Strings,
+Interview_Specific,Can Place Flowers,Strings,
+Interview_Specific,String Compression,Strings,
+Interview_Specific,One Away (edit distance variants),Strings,
+Interview_Specific,Find and Replace Pattern,Strings,
+Interview_Specific,Checking for Sentences (NLP),Strings,
+Interview_Specific,Word Ladder,Strings,
+
+
+// ========================================================================
+// END OF LIST
+// Total: 54 problems
+// ========================================================================
+
+
+
+
+
+
+
+
+
+Priority_Label	Difficulty	Problem	Category
+MUST KNOW	Easy	Reverse a string	Strings
+MUST KNOW	Easy	Check if palindrome	Strings
+MUST KNOW	Easy	Valid Parentheses	Strings
+MUST KNOW	Easy	Check if anagram	Strings
+MUST KNOW	Medium	Longest Substring Without Repeating Characters	Strings
+MUST KNOW	Medium	Longest Palindromic Substring	Strings
+MUST KNOW	Medium	Group Anagrams	Strings
+MUST KNOW	Medium	Reverse Words in a String	Strings
+MUST KNOW	Hard	Edit Distance (Levenshtein)	Strings
+MUST KNOW	Hard	Minimum Window Substring	Strings
+VERY IMPORTANT	Easy	First unique character in string	Strings
+VERY IMPORTANT	Easy	Isomorphic strings	Strings
+VERY IMPORTANT	Easy	String to Integer (atoi)	Strings
+VERY IMPORTANT	Easy	Roman to Integer	Strings
+VERY IMPORTANT	Easy	Longest common prefix	Strings
+VERY IMPORTANT	Easy	Implement strStr()	Strings
+VERY IMPORTANT	Medium	Multiply two strings	Strings
+VERY IMPORTANT	Medium	Pattern Matching (Rabin-Karp)	Strings
+VERY IMPORTANT	Medium	Decode String	Strings
+VERY IMPORTANT	Medium	Word Pattern	Strings
+VERY IMPORTANT	Hard	Find All Anagrams in String	Strings
+VERY IMPORTANT	Hard	Longest Repeating Character Replacement	Strings
+VERY IMPORTANT	Hard	Count Palindromic Substrings	Strings
+VERY IMPORTANT	Hard	Text Justification	Strings
+VERY IMPORTANT	Interview_Specific	Letter Combinations of Phone Number	Strings
+IMPORTANT	Easy	Remove vowels from string	Strings
+IMPORTANT	Easy	Defanging an IP address	Strings
+IMPORTANT	Easy	Jewels and Stones	Strings
+IMPORTANT	Easy	Shuffle string	Strings
+IMPORTANT	Easy	Excel Sheet Column Title	Strings
+IMPORTANT	Medium	Longest Common Substring	Strings
+IMPORTANT	Medium	Longest Prefix Suffix (KMP)	Strings
+IMPORTANT	Medium	Permutations of string	Strings
+IMPORTANT	Medium	Validate IP Address	Strings
+IMPORTANT	Medium	Count and Say	Strings
+IMPORTANT	Hard	Word Search II (Trie)	Strings
+IMPORTANT	Hard	Regular Expression Matching	Strings
+IMPORTANT	Hard	Wildcard Matching	Strings
+IMPORTANT	Hard	Palindrome Pairs	Strings
+IMPORTANT	Interview_Specific	Restore IP Addresses	Strings
+IMPORTANT	Interview_Specific	Backspace String Compare	Strings
+IMPORTANT	Interview_Specific	Scramble String	Strings
+FOUNDATION	Medium	Split String in Balanced Strings	Strings
+FOUNDATION	Medium	Delete and Earn	Strings
+FOUNDATION	Hard	Concatenated Words	Strings
+FOUNDATION	Hard	Shortest Word Distance	Strings
+FOUNDATION	Hard	Encode and Decode Strings	Strings
+FOUNDATION	Hard	Valid Number	Strings
+FOUNDATION	Interview_Specific	Can Place Flowers	Strings
+FOUNDATION	Interview_Specific	String Compression	Strings
+FOUNDATION	Interview_Specific	One Away (edit distance variants)	Strings
+FOUNDATION	Interview_Specific	Find and Replace Pattern	Strings
+FOUNDATION	Interview_Specific	Checking for Sentences (NLP)	Strings
+FOUNDATION	Interview_Specific	Word Ladder	Strings

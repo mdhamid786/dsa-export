@@ -1,0 +1,14 @@
+{
+  "name": "dsa-export",
+  "version": "1.0.0",
+  "description": "A complete guide to Data Structures and Algorithms (DSA) using **JavaScript** and **TypeScript**.  \r This folder contains categorized problems, explanations, and optimized solutions designed to build strong problem-solving and algorithmic thinking skills for coding interviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamidalo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

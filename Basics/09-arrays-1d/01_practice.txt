@@ -1,0 +1,266 @@
+====================================================================================================
+1D ARRAY PROBLEMS - INTERVIEW PREPARATION ROADMAP
+====================================================================================================
+
+📊 PROGRESS OVERVIEW:
+  • Total Problems: 65
+  • ✅ Completed: 19 problems
+  • 🔲 Remaining: 46 problems
+  • Completion Rate: 29.2%
+
+====================================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PRIORITY 1: MUST KNOW (5/11 completed)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 These are the most frequently asked problems in FAANG/product-based company interviews.
+   Master these first - they form the foundation for 70% of interview questions.
+
+
+  📌 Easy Level:
+  ------------------------------------------------------------------------------------------------
+    ✅  1. Remove duplicates from array
+    🔲  2. Rotate array by k positions
+    ✅  3. Find missing number in array (1 to n)
+    ✅  4. Move all zeros to end
+    ✅  5. Merge two sorted arrays
+
+  📌 Medium Level:
+  ------------------------------------------------------------------------------------------------
+    ✅  6. Two Sum problem
+    🔲  7. Kadane's Algorithm (Maximum subarray sum)
+    ✅  8. Stock Buy and Sell problem
+    🔲  9. Product of array except self
+    🔲 10. Container with most water
+
+  📌 Interview_Specific Problems (JavaScript/Frontend focused):
+  ------------------------------------------------------------------------------------------------
+    🔲 11. Implement array methods from scratch (map, filter, reduce)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PRIORITY 2: VERY IMPORTANT (3/22 completed)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 Very commonly asked in technical rounds. These demonstrate important algorithmic patterns
+   like two-pointers, sliding window, binary search, and array manipulation techniques.
+
+
+  📌 Easy Level:
+  ------------------------------------------------------------------------------------------------
+    ✅ 12. Find second largest element
+    ✅ 13. Find all pairs with given sum
+    🔲 14. Find leaders in array (elements > all right elements)
+
+  📌 Medium Level:
+  ------------------------------------------------------------------------------------------------
+    ✅ 15. Three Sum problem
+    🔲 16. Trapping Rain Water
+    🔲 17. Longest consecutive sequence
+    🔲 18. Next Greater Element
+    🔲 19. Sliding Window Maximum
+    🔲 20. Majority Element (Boyer-Moore)
+    🔲 21. Find duplicate number (Floyd's algorithm)
+    🔲 22. Merge overlapping intervals
+    🔲 23. Dutch National Flag (Sort 0s, 1s, 2s)
+    🔲 24. Find minimum in rotated sorted array
+    🔲 25. Search in rotated sorted array
+    🔲 26. Subarray with given sum
+
+  📌 Hard Level:
+  ------------------------------------------------------------------------------------------------
+    🔲 27. Median of two sorted arrays
+    🔲 28. Four Sum problem
+    🔲 29. Longest substring without repeating characters
+    🔲 30. Minimum window substring
+
+  📌 Interview_Specific Problems (JavaScript/Frontend focused):
+  ------------------------------------------------------------------------------------------------
+    🔲 31. Flatten nested arrays
+    🔲 32. Print matrix in spiral form
+    🔲 33. Find k largest/smallest elements
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PRIORITY 3: IMPORTANT (3/23 completed)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 Important problems that round out your preparation. These cover edge cases and
+   variations of core patterns. Solve after mastering Priority 1 & 2.
+
+
+  📌 Easy Level:
+  ------------------------------------------------------------------------------------------------
+    ✅ 34. Find the largest/smallest element in an array
+    🔲 35. Reverse an array
+    ✅ 36. Find intersection of two arrays
+    ✅ 37. Find union of two arrays
+
+  📌 Medium Level:
+  ------------------------------------------------------------------------------------------------
+    🔲 38. Find all subarrays with given sum
+    🔲 39. Rearrange array alternately
+    🔲 40. Longest increasing subsequence
+
+  📌 Hard Level:
+  ------------------------------------------------------------------------------------------------
+    🔲 41. Trapping rainwater (2D version)
+    🔲 42. Maximum product subarray
+    🔲 43. Count inversions in array
+    🔲 44. Smallest subarray with sum > given value
+    🔲 45. Maximum circular subarray sum
+    🔲 46. Count subarrays with equal 0s and 1s
+    🔲 47. Largest rectangle in histogram
+    🔲 48. Sliding window median
+    🔲 49. Longest palindromic subsequence
+    🔲 50. Edit distance (array version)
+
+  📌 Interview_Specific Problems (JavaScript/Frontend focused):
+  ------------------------------------------------------------------------------------------------
+    🔲 51. Deep clone array with nested objects
+    🔲 52. Array chunking
+    🔲 53. Find common elements in 3 sorted arrays
+    🔲 54. Rearrange positive and negative numbers
+    🔲 55. Maximum difference between two elements
+    🔲 56. Find triplet with given sum
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PRIORITY 4: FOUNDATION (8/9 completed)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 Foundation problems for basic array operations. These are usually warm-up questions
+   or used to test basic programming skills. Quick wins for confidence building!
+
+
+  📌 Easy Level:
+  ------------------------------------------------------------------------------------------------
+    ✅ 57. Find the sum of all elements
+    ✅ 58. Find the average of all elements
+    ✅ 59. Count occurrences of an element
+    ✅ 60. Check if array is sorted
+    ✅ 61. Check if array is palindrome
+    ✅ 62. Search element in array (linear search)
+    ✅ 63. Find frequency of each element
+    ✅ 64. Separate even and odd numbers
+
+  📌 Hard Level:
+  ------------------------------------------------------------------------------------------------
+    🔲 65. Find minimum number of merge operations
+
+
+====================================================================================================
+📚 RECOMMENDED STUDY APPROACH:
+====================================================================================================
+
+WEEK 1-2: Focus on MUST KNOW problems (Priority 1)
+  • These 11 problems are asked in 70%+ of interviews
+  • Practice multiple approaches for each problem
+  • Focus on time/space complexity optimization
+
+WEEK 3-4: Master VERY IMPORTANT problems (Priority 2)
+  • 22 problems covering essential patterns
+  • Learn pattern recognition (two pointers, sliding window, etc.)
+  • Practice explaining your approach verbally
+
+WEEK 5-6: Strengthen with IMPORTANT problems (Priority 3)
+  • 23 problems for comprehensive coverage
+  • Focus on variations and edge cases
+  • Practice under timed conditions (45 min per problem)
+
+WEEK 7+: Polish with FOUNDATION problems (Priority 4)
+  • Quick revision of basics
+  • Use these for warm-up before interviews
+  • Most of these you've already completed!
+
+====================================================================================================
+
+💪 KEY PATTERNS TO MASTER:
+  1. Two Pointers (Two Sum, Three Sum, Container with Water)
+  2. Sliding Window (Maximum Subarray, Longest Substring)
+  3. Kadane's Algorithm (Maximum Subarray Sum)
+  4. Fast & Slow Pointer (Find Duplicate - Floyd's)
+  5. Binary Search on Sorted/Rotated Arrays
+  6. Hash Map for O(n) lookups
+  7. Prefix Sum (Subarray problems)
+  8. Monotonic Stack (Next Greater Element)
+  9. Dutch National Flag (3-way partitioning)
+ 10. Greedy (Stock Buy/Sell)
+
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+No,Priority_Label,Difficulty,Problem,Category,Status
+1,MUST KNOW,Easy,Remove duplicates from array,1D Arrays,done
+2,MUST KNOW,Easy,Rotate array by k positions,1D Arrays,
+3,MUST KNOW,Easy,Find missing number in array (1 to n),1D Arrays,
+4,MUST KNOW,Easy,Move all zeros to end,1D Arrays,done
+5,MUST KNOW,Easy,Merge two sorted arrays,1D Arrays,done
+6,MUST KNOW,Medium,Two Sum problem,1D Arrays,done
+7,MUST KNOW,Medium,Kadane's Algorithm (Maximum subarray sum),1D Arrays,
+8,MUST KNOW,Medium,Stock Buy and Sell problem,1D Arrays,done
+9,MUST KNOW,Medium,Product of array except self,1D Arrays,
+10,MUST KNOW,Medium,Container with most water,1D Arrays,
+11,MUST KNOW,Interview_Specific,"Implement array methods from scratch (map, filter, reduce)",1D Arrays,
+12,VERY IMPORTANT,Easy,Find second largest element,1D Arrays,done
+13,VERY IMPORTANT,Easy,Find all pairs with given sum,1D Arrays,done
+14,VERY IMPORTANT,Easy,Find leaders in array (elements > all right elements),1D Arrays,
+15,VERY IMPORTANT,Medium,Three Sum problem,1D Arrays,done
+16,VERY IMPORTANT,Medium,Trapping Rain Water,1D Arrays,
+17,VERY IMPORTANT,Medium,Longest consecutive sequence,1D Arrays,
+18,VERY IMPORTANT,Medium,Next Greater Element,1D Arrays,
+19,VERY IMPORTANT,Medium,Sliding Window Maximum,1D Arrays,
+20,VERY IMPORTANT,Medium,Majority Element (Boyer-Moore),1D Arrays,
+21,VERY IMPORTANT,Medium,Find duplicate number (Floyd's algorithm),1D Arrays,
+22,VERY IMPORTANT,Medium,Merge overlapping intervals,1D Arrays,
+23,VERY IMPORTANT,Medium,"Dutch National Flag (Sort 0s, 1s, 2s)",1D Arrays,
+24,VERY IMPORTANT,Medium,Find minimum in rotated sorted array,1D Arrays,
+25,VERY IMPORTANT,Medium,Search in rotated sorted array,1D Arrays,
+26,VERY IMPORTANT,Medium,Subarray with given sum,1D Arrays,
+27,VERY IMPORTANT,Hard,Median of two sorted arrays,1D Arrays,
+28,VERY IMPORTANT,Hard,Four Sum problem,1D Arrays,
+29,VERY IMPORTANT,Hard,Longest substring without repeating characters,1D Arrays,
+30,VERY IMPORTANT,Hard,Minimum window substring,1D Arrays,
+31,VERY IMPORTANT,Interview_Specific,Flatten nested arrays,1D Arrays,
+32,VERY IMPORTANT,Interview_Specific,Print matrix in spiral form,1D Arrays,
+33,VERY IMPORTANT,Interview_Specific,Find k largest/smallest elements,1D Arrays,
+34,IMPORTANT,Easy,Find the largest/smallest element in an array,1D Arrays,done
+35,IMPORTANT,Easy,Reverse an array,1D Arrays,
+36,IMPORTANT,Easy,Find intersection of two arrays,1D Arrays,done
+37,IMPORTANT,Easy,Find union of two arrays,1D Arrays,done
+38,IMPORTANT,Medium,Find all subarrays with given sum,1D Arrays,
+39,IMPORTANT,Medium,Rearrange array alternately,1D Arrays,
+40,IMPORTANT,Medium,Longest increasing subsequence,1D Arrays,
+41,IMPORTANT,Hard,Trapping rainwater (2D version),1D Arrays,
+42,IMPORTANT,Hard,Maximum product subarray,1D Arrays,
+43,IMPORTANT,Hard,Count inversions in array,1D Arrays,
+44,IMPORTANT,Hard,Smallest subarray with sum > given value,1D Arrays,
+45,IMPORTANT,Hard,Maximum circular subarray sum,1D Arrays,
+46,IMPORTANT,Hard,Count subarrays with equal 0s and 1s,1D Arrays,
+47,IMPORTANT,Hard,Largest rectangle in histogram,1D Arrays,
+48,IMPORTANT,Hard,Sliding window median,1D Arrays,
+49,IMPORTANT,Hard,Longest palindromic subsequence,1D Arrays,
+50,IMPORTANT,Hard,Edit distance (array version),1D Arrays,
+51,IMPORTANT,Interview_Specific,Deep clone array with nested objects,1D Arrays,
+52,IMPORTANT,Interview_Specific,Array chunking,1D Arrays,
+53,IMPORTANT,Interview_Specific,Find common elements in 3 sorted arrays,1D Arrays,
+54,IMPORTANT,Interview_Specific,Rearrange positive and negative numbers,1D Arrays,
+55,IMPORTANT,Interview_Specific,Maximum difference between two elements,1D Arrays,
+56,IMPORTANT,Interview_Specific,Find triplet with given sum,1D Arrays,
+57,FOUNDATION,Easy,Find the sum of all elements,1D Arrays,done
+58,FOUNDATION,Easy,Find the average of all elements,1D Arrays,done
+59,FOUNDATION,Easy,Count occurrences of an element,1D Arrays,done
+60,FOUNDATION,Easy,Check if array is sorted,1D Arrays,done
+61,FOUNDATION,Easy,Check if array is palindrome,1D Arrays,done
+62,FOUNDATION,Easy,Search element in array (linear search),1D Arrays,done
+63,FOUNDATION,Easy,Find frequency of each element,1D Arrays,done
+64,FOUNDATION,Easy,Separate even and odd numbers,1D Arrays,done
+65,FOUNDATION,Hard,Find minimum number of merge operations,1D Arrays,
